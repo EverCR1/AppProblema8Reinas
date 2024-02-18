@@ -1,0 +1,10 @@
+C:\Users\Ever Corazón\source\repos\AppOchoReinas\AppOchoReinas\obj\Debug\AppOchoReinas.csproj.AssemblyReference.cache
+C:\Users\Ever Corazón\source\repos\AppOchoReinas\AppOchoReinas\obj\Debug\AppOchoReinas.Properties.Resources.resources
+C:\Users\Ever Corazón\source\repos\AppOchoReinas\AppOchoReinas\obj\Debug\AppOchoReinas.csproj.GenerateResource.cache
+C:\Users\Ever Corazón\source\repos\AppOchoReinas\AppOchoReinas\obj\Debug\AppOchoReinas.csproj.CoreCompileInputs.cache
+C:\Users\Ever Corazón\source\repos\AppOchoReinas\AppOchoReinas\bin\Debug\AppOchoReinas.exe.config
+C:\Users\Ever Corazón\source\repos\AppOchoReinas\AppOchoReinas\bin\Debug\AppOchoReinas.exe
+C:\Users\Ever Corazón\source\repos\AppOchoReinas\AppOchoReinas\bin\Debug\AppOchoReinas.pdb
+C:\Users\Ever Corazón\source\repos\AppOchoReinas\AppOchoReinas\obj\Debug\AppOchoReinas.exe
+C:\Users\Ever Corazón\source\repos\AppOchoReinas\AppOchoReinas\obj\Debug\AppOchoReinas.pdb
+C:\Users\Ever Corazón\source\repos\AppOchoReinas\AppOchoReinas\obj\Debug\AppOchoReinas.frmPrincipal.resources
